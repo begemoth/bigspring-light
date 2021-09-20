@@ -1,4 +1,4 @@
-baseURL = "http://freesign.ru/"
+baseURL = "https://freesign.ru/"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
